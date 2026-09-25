@@ -1,0 +1,6 @@
+.venv/
+_build/
+.DS_Store
+.ipynb_checkpoints/
+fluids_book_standalone/
+*.zip

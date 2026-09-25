@@ -1,0 +1,41 @@
+\begin{picture}(0,0)%
+\includegraphics{/Users/tuners/Documents/MMME1048/notes/images/manometer_challenge_soln_temp.eps}%
+\end{picture}%
+%
+%  Created by WinFIG version 2021.1 
+%  METADATA <version>1.0</version> 
+%
+\setlength{\unitlength}{3947sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(6777,5343)(2191,-7561)
+%  METADATA <id>56</id> 
+\put(4081,-4741){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}2}%
+}}}}
+%  METADATA <id>55</id> 
+\put(4096,-5686){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}1}%
+}}}}
+%  METADATA <id>62</id> 
+\put(8926,-3541){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\Delta h_b$}%
+}}}}
+%  METADATA <id>67</id> 
+\put(4876,-4351){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$h_a$}%
+}}}}
+%  METADATA <id>68</id> 
+\put(8641,-4816){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$h_b$}%
+}}}}
+%  METADATA <id>45</id> 
+\put(2641,-5341){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\Delta h_c$}%
+}}}}
+%  METADATA <id>49</id> 
+\put(7216,-3376){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\Delta p_B$}%
+}}}}
+%  METADATA <id>61</id> 
+\put(2206,-3271){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\Delta h_a$}%
+}}}}
+\end{picture}%

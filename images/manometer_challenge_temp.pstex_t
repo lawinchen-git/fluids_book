@@ -1,0 +1,23 @@
+\begin{picture}(0,0)%
+\includegraphics{/Users/tuners/Documents/MMME1048/notes/images/manometer_challenge_temp.eps}%
+\end{picture}%
+%
+%  Created by WinFIG version 2021.1 
+%  METADATA <version>1.0</version> 
+%
+\setlength{\unitlength}{3947sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(6024,5343)(2314,-7561)
+%  METADATA <id>49</id> 
+\put(7216,-3376){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\Delta p_B$}%
+}}}}
+%  METADATA <id>45</id> 
+\put(2641,-5341){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\Delta h_c$}%
+}}}}
+\end{picture}%

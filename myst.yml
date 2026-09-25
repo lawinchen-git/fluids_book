@@ -1,0 +1,44 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 724be70c-af9f-40ce-b454-84beed1f6e17
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  
+  toc:
+    - file: intro
+
+    - file: fluid_properties
+      children:
+        - file: density
+        - file: pressure
+        - file: manometry
+        - file: fluid_properties_exercises
+
+    - file: fluid_statics
+      children:
+        - file: submerged_surfaces
+        - file: buoyancy
+        - file: fluid_statics_exercises
+
+    - file: fluid_motion
+      children:
+        - file: Reynolds_number
+        - file: viscosity
+        - file: mass_con
+        - file: Bernoulli
+        - file: Euler
+        - file: fluid_motion_exercises
+  
+  
+site:
+  template: book-theme
+  options:
+    output: _build/html
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
