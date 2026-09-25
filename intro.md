@@ -23,11 +23,11 @@ Classes start on the hour and finish at 10$\,$minutes to the hour.
   - {ref}`Pressure <section-pressure>`
   - {ref}`Pressure measurement - manometry <section-manometry>`
 
-- Introduction to `chapter-fluid_statics`.
+- Introduction to {ref}`chapter-fluid_statics`.
   - Submerged surfaces
   - Buoyancy
 
-- Introduction to `chapter-fluid_motion`. 
+- Introduction to {ref}`chapter-fluid_motion`. 
   - Laminar \& turbulent flow - Reynold's number
   - Newton's law of viscosity
   - Mass conservation - continuity
@@ -36,7 +36,7 @@ Classes start on the hour and finish at 10$\,$minutes to the hour.
   
 ### How to use these notes
 
-We will go through the main notes, together with worked examples, in lectures. I would encourage you to annotate as we go through - to pick out e.g.~key words, things you find challenging, or helpful alternative explanations. For the worked examples, I suggest you write out the solutions with me, which is a great way of learning both how to set out calculations but also helps embed the learning. 
+We will go through the main notes, together with worked examples, in lectures. I would encourage you to annotate or take complementary notes as we go through - to pick out e.g.~key words, things you find challenging, or helpful alternative explanations. For the worked examples, I suggest you write out the solutions with me, which is a great way of learning how to set out calculations while also embedding the learning. 
 
 After lectures - go back through the notes and test yourself by repeating the worked examples. Then move onto the exercise sheets. 
 
