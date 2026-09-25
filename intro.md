@@ -4,7 +4,7 @@
 **Email**: barbara.turnbull@nottingham.ac.uk
 
 - MMME1048
-- Autumn Semester Fluid Mechanics
+- Fluid Mechanics - Autumn Semester
 
 ### Module Activities
 
