@@ -20,19 +20,19 @@ project:
         - file: fluid_properties_exercises
 
     - file: fluid_statics
-      children:
-        - file: submerged_surfaces
-        - file: buoyancy
-        - file: fluid_statics_exercises
+#      children:
+#        - file: submerged_surfaces
+#        - file: buoyancy
+#        - file: fluid_statics_exercises
 
     - file: fluid_motion
-      children:
-        - file: Reynolds_number
-        - file: viscosity
-        - file: mass_con
-        - file: Bernoulli
-        - file: Euler
-        - file: fluid_motion_exercises
+#      children:
+#        - file: Reynolds_number
+#        - file: viscosity
+#        - file: mass_con
+#        - file: Bernoulli
+#        - file: Euler
+#        - file: fluid_motion_exercises
   
   
 site:
