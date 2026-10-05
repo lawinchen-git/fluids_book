@@ -21,8 +21,8 @@ project:
 
     - file: fluid_statics
       children:
-        - file: submerged_surfaces
         - file: buoyancy
+        - file: submerged_surfaces
         - file: fluid_statics_exercises
 
     - file: fluid_motion

@@ -24,8 +24,9 @@ Classes start on the hour and finish at 10$\,$minutes to the hour.
   - {ref}`Pressure measurement - manometry <section-manometry>`
 
 - Introduction to {ref}`chapter-fluid_statics`.
-  - Submerged surfaces
-  - Buoyancy
+  - {ref}`Buoyancy <section-buoyancy>`
+  - {ref}`Submerged surfaces <section-submerged_surfaces>`
+
 
 - Introduction to {ref}`chapter-fluid_motion`. 
   - Laminar \& turbulent flow - Reynold's number
