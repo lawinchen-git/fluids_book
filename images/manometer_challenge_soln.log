@@ -1,9 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=latex 2025.2.19)  24 SEP 2026 13:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=latex 2025.2.19)  7 OCT 2026 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/Users/tuners/Documents/MMME1048/notes/images/manometer_challenge_soln.tex
-(/Users/tuners/Documents/MMME1048/notes/images/manometer_challenge_soln.tex
+**/Users/tuners/Documents/MMME1048/fluids_book/images/manometer_challenge_soln.
+tex
+
+(/Users/tuners/Documents/MMME1048/fluids_book/images/manometer_challenge_soln.t
+ex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -164,13 +167,13 @@ LaTeX Font Info:    ... okay on input line 9.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-(/Users/tuners/Documents/MMME1048/notes/images/manometer_challenge_soln_temp.ps
-tex_t
-File: /Users/tuners/Documents/MMME1048/notes/images/manometer_challenge_soln_te
-mp.eps Graphic file (type eps)
+(/Users/tuners/Documents/MMME1048/fluids_book/images/manometer_challenge_soln_t
+emp.pstex_t
+File: /Users/tuners/Documents/MMME1048/fluids_book/images/manometer_challenge_s
+oln_temp.eps Graphic file (type eps)
 
-</Users/tuners/Documents/MMME1048/notes/images/manometer_challenge_soln_temp.ep
-s>
+</Users/tuners/Documents/MMME1048/fluids_book/images/manometer_challenge_soln_t
+emp.eps>
 LaTeX Font Info:    Calculating math sizes for size <17> on input line 25.
 
 
@@ -215,11 +218,11 @@ LaTeX Font Warning: Size substitutions with differences
  ) 
 Here is how much of TeX's memory you used:
  1673 strings out of 474117
- 29362 string characters out of 5743708
+ 29446 string characters out of 5743708
  1927184 words of memory out of 5000000
  24047 multiletter control sequences out of 15000+600000
  561303 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,362b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,7n,65p,386b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on manometer_challenge_soln.dvi (1 page, 1116 bytes).
+Output written on manometer_challenge_soln.dvi (1 page, 1120 bytes).
