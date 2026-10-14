@@ -33,7 +33,6 @@ Classes start on the hour and finish at 10$\,$minutes to the hour.
   - Newton's law of viscosity
   - Mass conservation - continuity
   - Energy conservation - Bernoulli's equation
-  - Momentum conservation - Euler equation 
   
 ### How to use these notes
 
