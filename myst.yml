@@ -27,8 +27,8 @@ project:
 
     - file: fluid_motion
       children:
-#        - file: viscosity
-#        - file: mass_con
+        - file: viscosity
+        - file: mass_conservation
 #        - file: Bernoulli
 #        - file: Euler
         - file: fluid_motion_exercises

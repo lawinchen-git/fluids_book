@@ -1,0 +1,44 @@
+\begin{picture}(0,0)%
+\includegraphics{/Users/tuners/Documents/MMME1048/fluids_book/images/bl_profilea_temp.eps}%
+\end{picture}%
+%
+%  Created by WinFIG version 2021.1 
+%  METADATA <version>1.0</version> 
+%
+\setlength{\unitlength}{3947sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(7801,4372)(1374,-4381)
+%  METADATA <id>16</id> 
+\put(7306,-3301){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}velocity}%
+}}}}
+%  METADATA <id>17</id> 
+\put(2161,-4366){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}fixed surface}%
+}}}}
+%  METADATA <id>18</id> 
+\put(4936,-511){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$u_\infty$}%
+}}}}
+%  METADATA <id>22</id> 
+\put(1981,-511){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}free stream velocity}%
+}}}}
+%  METADATA <id>25</id> 
+\put(6976,-3676){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}boundary layer}%
+}}}}
+%  METADATA <id>26</id> 
+\put(5911,-2731){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$u+\delta u$}%
+}}}}
+%  METADATA <id>27</id> 
+\put(6121,-3451){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$u$}%
+}}}}
+%  METADATA <id>29</id> 
+\put(3676,-3196){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$y+\delta y$}%
+}}}}
+%  METADATA <id>28</id> 
+\put(4891,-3691){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$y$}%
+}}}}
+\end{picture}%

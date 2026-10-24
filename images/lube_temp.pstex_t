@@ -1,0 +1,38 @@
+\begin{picture}(0,0)%
+\includegraphics{/Users/tuners/Documents/MMME1048/fluids_book/images/lube_temp.eps}%
+\end{picture}%
+%
+%  Created by WinFIG version 2021.1 
+%  METADATA <version>1.0</version> 
+%
+\setlength{\unitlength}{3947sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(8280,3429)(916,-6583)
+%  METADATA <id>13</id> 
+\put(9181,-3856){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$y$}%
+}}}}
+%  METADATA <id>14</id> 
+\put(931,-3691){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}oil film}%
+}}}}
+%  METADATA <id>33</id> 
+\put(7771,-5596){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$y$}%
+}}}}
+%  METADATA <id>34</id> 
+\put(7051,-5071){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$u$}%
+}}}}
+%  METADATA <id>7</id> 
+\put(5611,-3481){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}moving plate}%
+}}}}
+%  METADATA <id>9</id> 
+\put(8371,-3511){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$u$}%
+}}}}
+%  METADATA <id>8</id> 
+\put(2896,-4306){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}stationary plate}%
+}}}}
+\end{picture}%
