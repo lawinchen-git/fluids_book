@@ -31,7 +31,7 @@ Classes start on the hour and finish at 10$\,$minutes to the hour.
 - Introduction to {ref}`chapter-fluid_motion`. 
   - {ref}`Newton's law of viscosity <section-viscosity>`
   - {ref}`Laminar & turbulent flow - Reynold's number <section-Re>`.
-  - {ref}`Mass conservation - continuity <section-mass_con>`.
+  - {ref}`Mass conservation - Continuity <section-mass_con>`.
   - Energy conservation - Bernoulli's equation
   
 ### How to use these notes
