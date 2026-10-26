@@ -1,0 +1,41 @@
+\begin{picture}(0,0)%
+\includegraphics{/Users/tuners/Documents/MMME1048/fluids_book/images/uniform_flow2_temp.eps}%
+\end{picture}%
+%
+%  Created by WinFIG version 2021.1 
+%  METADATA <version>1.0</version> 
+%
+\setlength{\unitlength}{3947sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(7066,4048)(586,-6397)
+%  METADATA <id>52</id> 
+\put(6391,-3346){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}invariant}%
+}}}}
+%  METADATA <id>32</id> 
+\put(2206,-6286){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$t$}%
+}}}}
+%  METADATA <id>34</id> 
+\put(601,-4801){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$p$}%
+}}}}
+%  METADATA <id>33</id> 
+\put(5086,-6286){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$t$}%
+}}}}
+%  METADATA <id>35</id> 
+\put(3466,-4831){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$u$}%
+}}}}
+%  METADATA <id>19</id> 
+\put(6361,-2896){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$p, u$ spatially }%
+}}}}
+%  METADATA <id>30</id> 
+\put(1066,-4306){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}pressure $p(t)$}%
+}}}}
+%  METADATA <id>31</id> 
+\put(4036,-4321){\makebox(0,0)[lb]{\smash{{\SetFigFont{20}{24.0}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}velocity $u(t)$}%
+}}}}
+\end{picture}%
