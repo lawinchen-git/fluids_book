@@ -1,0 +1,62 @@
+\begin{picture}(0,0)%
+\includegraphics{/Users/tuners/Documents/MMME1048/fluids_book/images/euler_dev1_temp.eps}%
+\end{picture}%
+%
+%  Created by WinFIG version 2021.1 
+%  METADATA <version>1.0</version> 
+%
+\setlength{\unitlength}{3947sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(6622,3584)(1404,-4463)
+%  METADATA <id>20</id> 
+\put(5371,-1891){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\delta s$}%
+}}}}
+%  METADATA <id>22</id> 
+\put(6781,-2146){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$a, u$}%
+}}}}
+%  METADATA <id>9</id> 
+\put(1651,-2581){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$z$}%
+}}}}
+%  METADATA <id>12</id> 
+\put(1606,-3466){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\theta$}%
+}}}}
+%  METADATA <id>13</id> 
+\put(2341,-3271){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Vertical coordinate $z$}%
+}}}}
+%  METADATA <id>14</id> 
+\put(2326,-3616){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Streamwise coordinate $s$}%
+}}}}
+%  METADATA <id>15</id> 
+\put(2341,-3916){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Angle between them $\theta$}%
+}}}}
+%  METADATA <id>33</id> 
+\put(5956,-1126){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{.82,0,0}$(p+\delta p)\delta A$}%
+}}}}
+%  METADATA <id>34</id> 
+\put(5356,-3031){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{.82,0,0}$p\delta A$}%
+}}}}
+%  METADATA <id>35</id> 
+\put(6316,-2881){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{.82,0,0}$g\delta m$}%
+}}}}
+%  METADATA <id>37</id> 
+\put(6841,-4201){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\cos\theta = \partial z/\partial s$}%
+}}}}
+%  METADATA <id>26</id> 
+\put(8011,-3241){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$s$}%
+}}}}
+%  METADATA <id>27</id> 
+\put(7231,-3076){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$z$}%
+}}}}
+%  METADATA <id>28</id> 
+\put(7741,-3916){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\theta$}%
+}}}}
+%  METADATA <id>8</id> 
+\put(2266,-2896){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$s$}%
+}}}}
+\end{picture}%

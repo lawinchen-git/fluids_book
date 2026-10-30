@@ -1,0 +1,59 @@
+\begin{picture}(0,0)%
+\includegraphics{/Users/tuners/Documents/MMME1048/fluids_book/images/pipe_head_temp.eps}%
+\end{picture}%
+%
+%  Created by WinFIG version 2021.1 
+%  METADATA <version>1.0</version> 
+%
+\setlength{\unitlength}{3947sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(9416,6755)(429,-6743)
+%  METADATA <id>12</id> 
+\put(6406,-4681){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$1$}%
+}}}}
+%  METADATA <id>13</id> 
+\put(3601,-5536){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$2$}%
+}}}}
+%  METADATA <id>14</id> 
+\put(5641,-6631){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}elevation datum}%
+}}}}
+%  METADATA <id>17</id> 
+\put(4696,-4156){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,1}flow}%
+}}}}
+%  METADATA <id>31</id> 
+\put(3301,-301){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}TOTAL HEAD}%
+}}}}
+%  METADATA <id>32</id> 
+\put(7861,-781){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Dynamic head}%
+}}}}
+%  METADATA <id>33</id> 
+\put(7876,-2011){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Static head}%
+}}}}
+%  METADATA <id>34</id> 
+\put(7861,-3991){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Elevaltion head}%
+}}}}
+%  METADATA <id>36</id> 
+\put(9076,-2551){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\displaystyle \frac{p_1}{\rho g}$}%
+}}}}
+%  METADATA <id>40</id> 
+\put(721,-2581){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\displaystyle \frac{p_2}{\rho g}$}%
+}}}}
+%  METADATA <id>35</id> 
+\put(9091,-1366){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\displaystyle \frac{u_1^2}{2g}$}%
+}}}}
+%  METADATA <id>38</id> 
+\put(9076,-4306){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$z_1$}%
+}}}}
+%  METADATA <id>39</id> 
+\put(841,-4981){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$z_2$}%
+}}}}
+%  METADATA <id>41</id> 
+\put(751,-1051){\makebox(0,0)[lb]{\smash{{\SetFigFont{17}{20.4}{\rmdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}$\displaystyle \frac{u_2^2}{2g}$}%
+}}}}
+\end{picture}%

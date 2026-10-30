@@ -32,7 +32,7 @@ Classes start on the hour and finish at 10$\,$minutes to the hour.
   - {ref}`Newton's law of viscosity <section-viscosity>`
   - {ref}`Laminar & turbulent flow - Reynold's number <section-Re>`.
   - {ref}`Mass conservation - Continuity <section-mass_con>`.
-  - Energy conservation - Bernoulli's equation
+  - {ref}`Euler and Bernoulli equations - <section-euler_bernoulli>`
   
 ### How to use these notes
 
